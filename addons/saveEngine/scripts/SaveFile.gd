@@ -1,4 +1,4 @@
-extends Node
+extends Resource
 class_name SaveFile
 
 @export var Version : String = "1.0"
